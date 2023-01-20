@@ -2,4 +2,4 @@ Este projeto utiliza a biblioteca pandas para criar e manipular uma planilha de 
 
 O executável `teste.exe` foi criado utilizando o PyInstaller. Ele pode ser executado em qualquer computador com Windows, sem a necessidade de instalar o Python ou qualquer outro pacote. Realiza todos os procedimentos necessários para coletar os dados e escrevê-los na planilha.
 
-Pacotes necessários: `pandas`, `selenium`
+Pacotes necessários: `pandas`, `selenium`, `openpyxl`
